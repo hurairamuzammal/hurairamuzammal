@@ -1,8 +1,10 @@
 ### Hi there 👋
-
-<!--
-**hurairamuzammal/hurairamuzammal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+👋 Hi, I’m @hurairamuzammal.
+🎈 I am an Undergraduate CS Student at FAST NUCES.
+👀 I’m interested in Programming and developing solution to problems.
+🌱 I’m currently learning React and JavaScript.
+📫 Reach me at huraira.eqeel@gmail.com.
+<--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
