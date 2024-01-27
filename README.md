@@ -4,7 +4,7 @@
 <div style="border:1px solid black; border-radius:10px; padding:10px;">
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 10px;">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 20px;">
 
 </div>
 
