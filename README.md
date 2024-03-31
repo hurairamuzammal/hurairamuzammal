@@ -5,7 +5,7 @@
 <div style="border:1px solid black; border-radius:10px; padding:10px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hurairamuzammal&label=Profile%20views&color=0e75b6&style=flat" alt="hurairamuzammal" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 </div>
 
