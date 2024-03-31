@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Huraira Muzammal</h1>
 <h3 align="center">I am undergraduate student at Fast NUCES</h3>
 
@@ -25,9 +26,12 @@
  <!-- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  -->
  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<!-- 
+ 
 
-<h2 align="center">Hi 👋! My name is Huraira  and I'm a BS-CS student at FAST NUCES</h2>
+
+
+<!-- Below here is new file -->
+<!-- <h2 align="center">Hi 👋! My name is Huraira  and I'm a BS-CS student at FAST NUCES</h2>
 
 ###
 
@@ -62,11 +66,11 @@
   <a href="huraira.eqeel@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-</div>
+</div> -->
 
 ###
 
-<br clear="both"> -->
+<br clear="both"> 
 
 <img src="https://raw.githubusercontent.com/hurairamuzammal/hurairamuzammal/output/snake.svg" alt="Snake animation" />
 
