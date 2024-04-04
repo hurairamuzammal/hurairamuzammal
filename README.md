@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Huraira Muzammal</h1>
-<h3 align="center">I am undergraduate student at Fast NUCES</h3>
+<h3 align="center">I am Undergraduate CS Student at Fast NUCES</h3>
 
 <div style="border:1px solid black; border-radius:10px; padding:10px;">
 
