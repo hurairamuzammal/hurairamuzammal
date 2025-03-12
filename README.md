@@ -1,3 +1,6 @@
+<!-- show gif here  -->
+![Description of GIF](.github/workflows/github.gif)
+
 
 <h1 align="center">Hi 👋, I'm Huraira Muzammal</h1>
 <h3 align="center">I am Undergraduate CS Student at Fast NUCES</h3>
