@@ -1,6 +1,4 @@
-<!-- show gif here  -->
-![Description of GIF](.github/workflows/github.gif)
-
+<img src=".github/workflows/github.gif" width="500" alt="GitHub Workflow GIF">
 
 <h1 align="center">Hi 👋, I'm Huraira Muzammal</h1>
 <h3 align="center">I am Undergraduate CS Student at Fast NUCES</h3>
