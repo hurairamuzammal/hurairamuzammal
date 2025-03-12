@@ -11,6 +11,7 @@
   <tr>
     <td>
       <ul>
+        <h1>About Me</h1>
         <li>🌱 I’m currently learning <b>Flutter, Dart and C++ Programming</b>.</li>
         <li>📫 How to reach me <b>huraira.eqeel@gmail.com</b>.</li>
         <li>⚡ Fun Fact <b>I think I am a tech enthusiast</b>.</li>
@@ -24,8 +25,6 @@
 
 
 
-
-<img align="right" alt="Coding" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 </div>
 
