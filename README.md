@@ -18,7 +18,7 @@
       </ul>
     </td>
     <td>
-    <img align="right" alt="Coding" height="200" style="border-radius: 50%;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    <img align="right" alt="Coding"  style="border-radius: 50%;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
     </td>
   </tr>
 </table>
