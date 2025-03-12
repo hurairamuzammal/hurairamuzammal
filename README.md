@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Huraira Muzammal</h1>
 <h3 align="center">I am Undergraduate CS Student at Fast NUCES</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hurairamuzammal&label=Profile%20views&color=0e75b6&style=flat" alt="hurairamuzammal" /> </p>
+
 <div style="border:1px solid black; border-radius:10px; padding:10px;">
 
 <table>
@@ -15,13 +17,13 @@
       </ul>
     </td>
     <td>
-      <img src=".github/workflows/github.gif" alt="GitHub Workflow GIF" width="150">
+      <img align="right" alt="Coding" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
     </td>
   </tr>
 </table>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hurairamuzammal&label=Profile%20views&color=0e75b6&style=flat" alt="hurairamuzammal" /> </p>
+
 
 <img align="right" alt="Coding" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -29,11 +31,11 @@
 
 
 
-- 🌱 I’m currently learning **Flutter, Dart and C++ Programming**.
+<!-- - 🌱 I’m currently learning **Flutter, Dart and C++ Programming**.
 
 - 📫 How to reach me **huraira.eqeel@gmail.com**.
 
-- ⚡ Fun Fact **I think I am tech enthausist**.
+- ⚡ Fun Fact **I think I am tech enthausist**. -->
 
 
 
