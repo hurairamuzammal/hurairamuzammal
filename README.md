@@ -1,6 +1,6 @@
 <img src=".github/workflows/github.gif"  alt="GitHub Workflow GIF">
 
-<h1 align="center">Hi 👋, I'm Huraira Muzammal</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Abu Huraira</h1>
 <h3 align="center">I am Undergraduate CS Student at Fast NUCES</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hurairamuzammal&label=Profile%20views&color=0e75b6&style=flat" alt="hurairamuzammal" /> </p>
