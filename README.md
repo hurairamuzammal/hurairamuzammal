@@ -6,8 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hurairamuzammal&label=Profile%20views&color=0e75b6&style=flat" alt="hurairamuzammal" /> </p>
 
 <div style="border:1px solid black; border-radius:10px; padding:10px;">
-
-<table>
+ <ul>
+        <h1>About Me</h1>
+        <li>🌱 I’m currently learning <b>Flutter, Dart and Python (for AI and ML) Programming</b>.</li>
+        <li>📫 How to reach me <b>huraira.eqeel@gmail.com</b>.</li>
+        <li>⚡ Fun Fact <b>I think I am a tech enthusiast</b>.</li>
+      </ul>
+<!-- <table>
   <tr>
     <td>
       <ul>
@@ -17,11 +22,13 @@
         <li>⚡ Fun Fact <b>I think I am a tech enthusiast</b>.</li>
       </ul>
     </td>
+       
+     
     <!-- <td>
     <img align="right" alt="Coding" height="220px" style="border-radius: 50%;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
     </td> -->
   </tr>
-</table>
+</table> -->
 
 
 
