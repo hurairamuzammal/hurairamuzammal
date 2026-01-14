@@ -17,9 +17,9 @@
         <li>⚡ Fun Fact <b>I think I am a tech enthusiast</b>.</li>
       </ul>
     </td>
-    <td>
+    <!-- <td>
     <img align="right" alt="Coding" height="220px" style="border-radius: 50%;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-    </td>
+    </td> -->
   </tr>
 </table>
 
