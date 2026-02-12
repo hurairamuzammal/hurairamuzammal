@@ -1,7 +1,7 @@
 <img src=".github/workflows/github.gif"  alt="GitHub Workflow GIF">
 
 <h1 align="center">Hi 👋, I'm Muhammad Abu Huraira</h1>
-<h3 align="center">I am Undergraduate CS Student at Fast NUCES focusing on AI APPS and MLOps tasks</h3>
+<h3 align="center">I am Undergraduate CS Student at Fast NUCES focusing on AI and Application development using Flutter SDK </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hurairamuzammal&label=Profile%20views&color=0e75b6&style=flat" alt="hurairamuzammal" /> </p>
 
@@ -28,7 +28,7 @@
     <img align="right" alt="Coding" height="220px" style="border-radius: 50%;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
     </td> -->
   </tr>
-</table> -->
+</table>
 
 
 
