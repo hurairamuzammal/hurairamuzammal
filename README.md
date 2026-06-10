@@ -54,3 +54,59 @@
 ###
 
 
+# Portfolio Repository Map
+
+```
+📦 Muhammad Abu Huraira - Full Stack Developer
+│
+├── 🤖 AI / ML Stack
+│   └── AI_ML-Projects_Collection
+│       ├── GENAI-Qwen2-vl-finetuning-ocr
+│       ├── GENAI-GANS-sketch-to-image
+│       ├── GENAI-LSTM-BiLSTM-image_captioning
+│       ├── NLP-Transformer_using_Pytorch
+│       ├── NLP_Finetuning_Bert_GPT2_T5
+│       ├── NLP-LSTM_BiLSTM-Urdu_to_RomanUrdu
+│       └── NLP-RAG-medical-LLM
+│
+├── 📱 Flutter Stack
+│   ├── Notlyfe_App
+│   ├── Cricket_News_App
+│   ├── Flutter_Firebase_Projects
+│   └── Supabase_Flutter_Apps
+│
+├── ☕ Android (Java)
+│   ├── Firebase_RecyclerView_App
+│   ├── Camera_OCR_Android_App
+│   └── Student_Management_App
+│
+├── 🐍 Python Stack
+│   ├── ML_Electricity_Prediction_Model
+│   ├── Data_Analysis_Toolkit
+│   └── Automation_Scripts
+│
+├── 💾 Computer Science Core
+│   ├── DSA_Practice_Repo
+│   ├── Computer_Networks_Labs
+│   └── Cybersecurity_Practice
+│
+└── 💻 .NET Desktop Apps
+    ├── Windows_Forms_Inventory_System
+    └── CSharp_Desktop_Apps
+```
+
+## Repository Overview
+
+| Stack | Key Repositories | Focus Area |
+|-------|------------------|-----------|
+| **🤖 AI/ML** | AI_ML-Projects_Collection | Vision Models, NLP, Finetuning, RAG Systems |
+| **📱 Flutter** | 4+ Collections | Mobile Apps, UI Design, Firebase & Supabase Integration |
+| **☕ Android** | Firebase, OCR, Management | Cross-Platform Mobile Development |
+| **🐍 Python** | ML Models, Data Tools | Machine Learning, Data Analysis & Automation |
+| **💾 CS Core** | DSA, Networks, Security | Competitive Programming & Fundamentals |
+| **💻 .NET** | Desktop Applications | Windows Forms, Enterprise Solutions |
+
+**Total Repositories: 25+ Projects**
+
+
+
