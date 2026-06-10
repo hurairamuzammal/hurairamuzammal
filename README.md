@@ -73,26 +73,29 @@
 │   ├── Notlyfe_App
 │   ├── Cricket_News_App
 │   ├── Flutter_Firebase_Projects
-│   └── Supabase_Flutter_Apps
+│   
 │
-├── ☕ Android (Java)
+├── ☕ Android Java (Basic level)
 │   ├── Firebase_RecyclerView_App
 │   ├── Camera_OCR_Android_App
 │   └── Student_Management_App
 │
 ├── 🐍 Python Stack
 │   ├── ML_Electricity_Prediction_Model
-│   ├── Data_Analysis_Toolkit
-│   └── Automation_Scripts
+│   
+│   
 │
-├── 💾 Computer Science Core
-│   ├── DSA_Practice_Repo
-│   ├── Computer_Networks_Labs
-│   └── Cybersecurity_Practice
+├── 💾 Dev Ops (Software testing)
+│   ├── localcua_mini_testing
+│   ├── text-editor_testing
+│   └── mutation_testing
 │
-└── 💻 .NET Desktop Apps
-    ├── Windows_Forms_Inventory_System
-    └── CSharp_Desktop_Apps
+└── 💻 .NET Desktop Apps (windowform)
+    ├── Flex_managment_system
+    ├── Airline Managment Systtem
+    └── Dictionary
+    
+
 ```
 
 ## Repository Overview
