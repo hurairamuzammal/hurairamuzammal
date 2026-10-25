@@ -1,7 +1,7 @@
 <img src=".github/workflows/github.gif" alt="GitHub Workflow GIF">
 
 <h1 align="center">Hi 👋, I'm Muhammad Abu Huraira</h1>
-<h3 align="center">Undergraduate CS Student at FAST NUCES | AI, Mobile (Flutter) & SaaS Engineer</h3>
+<h3 align="center">Computer Science graduate Student at FAST NUCES | AI, Mobile (Flutter) & SaaS Engineer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hurairamuzammal&label=Profile%20views&color=0e75b6&style=flat" alt="hurairamuzammal" />
