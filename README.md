@@ -16,40 +16,47 @@
   </ul>
 </div>
 
-<!-- TOP FEATURED PROJECTS (5 ICONS SHOWCASE) -->
+<!-- TOP FEATURED PROJECTS (6 ICONS SHOWCASE) -->
 # 🌟 Top Projects & Platforms
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="20%" valign="top">
+    <td align="center" width="16.6%" valign="top">
       <a href="https://github.com/hurairamuzammal/Field-Quote">
         <img src="assets/projects/fieldquote.png" width="76" height="76" alt="FieldQuote Logo" style="border-radius: 18px;" /><br/>
         <b>FieldQuote</b>
       </a><br/>
       <sub>Complete AI Quoting & Operations SaaS Platform</sub>
     </td>
-    <td align="center" width="20%" valign="top">
-      <a href="https://github.com/hurairamuzammal/world_of_iot">
-        <img src="assets/projects/world_of_iot.png" width="76" height="76" alt="World of IT Logo" style="border-radius: 18px;" /><br/>
-        <b>World of IT</b>
+    <td align="center" width="16.6%" valign="top">
+      <a href="https://github.com/hurairamuzammal/WiFi-Sync">
+        <img src="assets/projects/wifisync.png" width="76" height="76" alt="WiFi Sync Logo" style="border-radius: 18px;" /><br/>
+        <b>WiFi Sync</b>
       </a><br/>
-      <sub>Real-Time IoT Hub & Clipboard Synchronizer</sub>
+      <sub>Sub-Second Cross-Device Clipboard & Remote Hub</sub>
     </td>
-    <td align="center" width="20%" valign="top">
+    <td align="center" width="16.6%" valign="top">
+      <a href="https://github.com/hurairamuzammal/linux-lumen">
+        <img src="assets/projects/lumen.png" width="76" height="76" alt="Lumen Logo" style="border-radius: 18px;" /><br/>
+        <b>Lumen</b>
+      </a><br/>
+      <sub>Native Linux Digital Wellbeing & Battery Telemetry</sub>
+    </td>
+    <td align="center" width="16.6%" valign="top">
       <a href="https://github.com/hurairamuzammal/notlyfe">
         <img src="assets/projects/notlyfe.png" width="76" height="76" alt="Notlyfe Logo" style="border-radius: 18px;" /><br/>
         <b>Notlyfe</b>
       </a><br/>
       <sub>Student Course & Note-Taking Academic Hub</sub>
     </td>
-    <td align="center" width="20%" valign="top">
+    <td align="center" width="16.6%" valign="top">
       <a href="https://github.com/hurairamuzammal/Cricket-world">
         <img src="assets/projects/cricketworld.png" width="76" height="76" alt="Cricket World Logo" style="border-radius: 18px;" /><br/>
         <b>Cricket World</b>
       </a><br/>
-      <sub>Live Match Analytics & ML Score Predictor</sub>
+      <sub>Live Match Analytics & ML Win Predictor</sub>
     </td>
-    <td align="center" width="20%" valign="top">
+    <td align="center" width="16.6%" valign="top">
       <a href="https://github.com/hurairamuzammal/localcua">
         <img src="assets/projects/localcua.png" width="76" height="76" alt="LocalCUA Logo" style="border-radius: 18px;" /><br/>
         <b>LocalCUA</b>
@@ -104,9 +111,9 @@
 │       └── Contractor Dispatch, Stripe Payments & Realtime Sync (Bubble + Supabase)
 │
 ├── 📱 Flutter & Mobile Ecosystem
-│   ├── world_of_iot (Real-Time Multi-Device Hub & Clipboard Sync Daemon)
+│   ├── WiFi-Sync (Sub-Second Multi-Device Hub & Clipboard Sync Platform)
 │   ├── Notlyfe_App (Student Productivity & Note Organization Platform)
-│   ├── Cricket_News_App (Live Analytics, Scraped Feed & Score Predictor)
+│   ├── Cricket_News_App (Live Analytics, Scraped Feed & ML Win Predictor)
 │   └── Flutter_Firebase_Projects
 │
 ├── 🤖 AI / ML Stack
@@ -120,8 +127,9 @@
 │       └── NLP-RAG-medical-LLM
 │
 ├── 💻 Autonomous Agents & Desktop Systems
+│   ├── linux-lumen (Native Linux Digital Wellbeing & Battery Telemetry in C11 / GTK 4)
 │   ├── localcua (Local Computer Use Agent with Action Guardrails)
-│   └── world_of_iot_daemon (Linux systemd agent & SNI system tray)
+│   └── WiFi_Sync_daemon (Linux systemd agent & SNI system tray)
 │
 ├── 💾 DevOps & Software Testing
 │   ├── localcua_mini_testing
@@ -146,9 +154,9 @@
 | Stack | Key Repositories | Focus Area |
 |:------|:-----------------|:-----------|
 | **☁️ SaaS / Cloud** | **Field-Quote** | Complete AI-Driven Field Service Quoting SaaS (Bubble.io, Cloudflare R2, Supabase) |
-| **📱 Mobile & IoT** | **world_of_iot**, **notlyfe**, **Cricket-world** | Cross-Platform Flutter Apps, Sub-Second Clipboard Sync, Real-Time Cloud |
+| **📱 Mobile & IoT** | **WiFi-Sync**, **notlyfe**, **Cricket-world** | Cross-Platform Flutter Apps, Sub-Second Clipboard Sync, Real-Time Cloud |
 | **🤖 AI / ML** | **AI_ML-Projects_Collection**, **NLP-RAG-medical-LLM** | Vision Models, LLM Finetuning, Whisper Audio Transcription, RAG Systems |
-| **💻 Autonomous Agents** | **localcua**, **linux-lumen** | Local Computer Use Agents, Linux Desktop Integration, Guardrail Runtimes |
+| **💻 Autonomous Agents** | **linux-lumen**, **localcua** | Native C11 / GTK 4 Telemetry, Local Computer Use Agents, Linux Desktop Integration |
 | **💾 DevOps & Quality** | **ST-LocalCUA-mutation-testing**, **Text-Editor-ST** | Mutation Testing, Automated Test Suites, Code Verification |
 | **☕ Android & .NET** | **Java-Android-Tasks**, **Flex-Managment-System** | Native Android Fundamentals, Enterprise WinForms Desktop Systems |
 
