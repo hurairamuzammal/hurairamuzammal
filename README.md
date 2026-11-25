@@ -18,9 +18,9 @@
 
 ## About Me
 
-I'm a **FAST NUCES Computer Science graduate** based in Lahore, Pakistan, focused on building end-to-end **AI/ML systems**, **full-stack SaaS platforms**, and **cross-platform Flutter & desktop applications**. At **RaftWorks**, I delivered the LLM-powered **FieldQuote** quoting SaaS and a Next.js/Supabase client portal (**RaftWorks Health**) with Stripe billing, Row-Level Security audits, and Cloudflare Worker / Vercel CI/CD pipelines.
+I'm a **FAST NUCES Computer Science graduate** based in Lahore, Pakistan, focused on building end-to-end **AI/ML systems**, **full-stack SaaS platforms**, and **cross-platform Flutter & desktop applications**. At **RaftWorks**, I delivered the LLM-powered **FieldQuote** quoting SaaS and a Supabase/Google Cloud client portal (**RaftWorks Health**) with Stripe billing, Row-Level Security audits, and Cloudflare Worker / Vercel CI/CD pipelines.
 
-My engineering work spans fine-tuning multimodal models (**LocalCUA** — Qwen3-VL-8B trained with Unsloth LoRA & GRPO to **76.97% ScreenSpot** as a 100% local desktop agent), building hallucination-resistant clinical RAG pipelines (**FastAPI + FAISS + Gemini/Ollama**), quantizing on-device sports ML models to **22.8 KB** (**80.7% accuracy, 0.887 ROC-AUC** in TFLite/ONNX), and shipping offline-first encrypted apps like **Notlyfe**, **Health Max**, **WiFi Sync**, and **Lumen**.
+My engineering work spans fine-tuning multimodal models (**LocalCUA** — Qwen3-VL-8B trained with Unsloth LoRA & GRPO to **76.97% ScreenSpot** as a 100% local desktop agent), building hallucination-resistant clinical RAG pipelines (**FastAPI + FAISS + Gemini/Ollama**), quantizing on-device sports ML models to **22.8 KB** (**80.7% accuracy, 0.887 ROC-AUC** in TFLite/ONNX), and shipping offline-first encrypted apps like **Notlyfe**, **WiFi Sync**, **Lumen**, and **Health Max**.
 
 - **Core Focus:** AI/LLM Engineering (RAG, Fine-Tuning, Computer Use Agents) & Cross-Platform Mobile/SaaS Engineering
 - **Open To:** Software / AI / Flutter Engineering roles (Lahore on-site/hybrid or Remote worldwide)
@@ -28,64 +28,69 @@ My engineering work spans fine-tuning multimodal models (**LocalCUA** — Qwen3-
 
 ---
 
-<!-- TOP FEATURED PROJECTS (4 + 3 GRID SHOWCASE) -->
+<!-- TOP FEATURED PROJECTS (4 + 4 GRID SHOWCASE WITH HOVER STACK TOOLTIPS) -->
 # 🌟 Featured Projects & Platforms
+<sub>Hover over any project icon or title to view its full summary & tech stack.</sub>
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="25%" valign="top">
-      <a href="https://github.com/hurairamuzammal/Field-Quote">
-        <img src="assets/projects/fieldquote.png" width="76" height="76" alt="FieldQuote Logo" style="border-radius: 18px;" /><br/>
+      <a href="https://github.com/hurairamuzammal/Field-Quote" title="AI-powered field-service quoting SaaS turning voice/text requests into itemized quotes in under 2 minutes. | Stack: Bubble.io, Supabase, PostgreSQL, Stripe, Make.com, Cloudflare R2, LLM APIs">
+        <img src="assets/projects/fieldquote.png" width="76" height="76" alt="FieldQuote Logo" title="AI-powered field-service quoting SaaS turning voice/text requests into itemized quotes in under 2 minutes. | Stack: Bubble.io, Supabase, PostgreSQL, Stripe, Make.com, Cloudflare R2, LLM APIs" style="border-radius: 18px;" /><br/>
         <b>FieldQuote</b>
       </a><br/>
-      <sub>AI-Powered Field Service Quoting & Operations SaaS</sub>
+      <sub>AI Field Service Quoting & Operations SaaS</sub>
     </td>
     <td align="center" width="25%" valign="top">
-      <a href="https://github.com/hurairamuzammal/Notlyfe-Student-Oragnizer">
-        <img src="assets/projects/notlyfe.png" width="76" height="76" alt="Notlyfe Logo" style="border-radius: 18px;" /><br/>
-        <b>Notlyfe</b>
-      </a><br/>
-      <sub>E2EE Offline-First Student Workspace (Android, Linux & Windows)</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/hurairamuzammal/localcua">
-        <img src="assets/projects/localcua.png" width="76" height="76" alt="LocalCUA Logo" style="border-radius: 18px;" /><br/>
+      <a href="https://github.com/hurairamuzammal/localcua" title="100% offline desktop Computer Use Agent fine-tuned on 200k GUI trajectories (76.97% ScreenSpot, 31.4% OSWorld). | Stack: Python, PyTorch, Qwen3-VL-8B, Unsloth LoRA, GRPO, Hugging Face, PyAutoGUI">
+        <img src="assets/projects/localcua.png" width="76" height="76" alt="LocalCUA Logo" title="100% offline desktop Computer Use Agent fine-tuned on 200k GUI trajectories (76.97% ScreenSpot, 31.4% OSWorld). | Stack: Python, PyTorch, Qwen3-VL-8B, Unsloth LoRA, GRPO, Hugging Face, PyAutoGUI" style="border-radius: 18px;" /><br/>
         <b>LocalCUA</b>
       </a><br/>
-      <sub>Fine-Tuned Qwen3-VL-8B Local Computer Use Agent</sub>
+      <sub>Fine-Tuned Qwen3-VL-8B Desktop Agent</sub>
     </td>
     <td align="center" width="25%" valign="top">
-      <a href="https://github.com/hurairamuzammal/WiFi-Sync">
-        <img src="assets/projects/wifisync.png" width="76" height="76" alt="WiFi Sync Logo" style="border-radius: 18px;" /><br/>
-        <b>WiFi Sync</b>
+      <a href="https://github.com/hurairamuzammal/Notlyfe-Student-Oragnizer" title="End-to-end encrypted (AES-256 + HMAC) offline-first student workspace for Android, Linux & Windows with persistent Google Drive and pluggable WebDAV/HTTP/Local storage. | Stack: Flutter, Dart, Riverpod, SQLite/FFI, Supabase RLS, Google Drive API">
+        <img src="assets/projects/notlyfe.png" width="76" height="76" alt="Notlyfe Logo" title="End-to-end encrypted (AES-256 + HMAC) offline-first student workspace for Android, Linux & Windows with persistent Google Drive and pluggable WebDAV/HTTP/Local storage. | Stack: Flutter, Dart, Riverpod, SQLite/FFI, Supabase RLS, Google Drive API" style="border-radius: 18px;" /><br/>
+        <b>Notlyfe</b>
       </a><br/>
-      <sub>Sub-Second Cross-Device Clipboard & Remote Hub</sub>
+      <sub>E2EE Offline-First Student Workspace</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/hurairamuzammal/NLP-RAG-medical-LLM" title="Clinical diagnostic RAG API with dual FAISS indexes (medical guidelines + MIMIC-IV cases) and a refusal gate to prevent hallucinations. | Stack: Python, FastAPI, FAISS, nomic-embed-text-v1.5, Gemini API, Ollama, DeepSeek, Streamlit">
+        <img src="assets/projects/medicalrag.png" width="76" height="76" alt="Medical RAG Logo" title="Clinical diagnostic RAG API with dual FAISS indexes (medical guidelines + MIMIC-IV cases) and a refusal gate to prevent hallucinations. | Stack: Python, FastAPI, FAISS, nomic-embed-text-v1.5, Gemini API, Ollama, DeepSeek, Streamlit" style="border-radius: 18px;" /><br/>
+        <b>Medical RAG</b>
+      </a><br/>
+      <sub>Clinical Dual-FAISS RAG & Refusal Gate</sub>
     </td>
   </tr>
-</table>
-
-<table align="center" width="80%">
   <tr>
-    <td align="center" width="33.3%" valign="top">
-      <a href="https://github.com/hurairamuzammal/Flutter-Projects-Collection">
-        <img src="assets/projects/healthmax.png" width="76" height="76" alt="Health Max Logo" style="border-radius: 18px;" /><br/>
-        <b>Health Max</b>
-      </a><br/>
-      <sub>Flutter Activity & Health Tracker with Home Widgets & Insights</sub>
-    </td>
-    <td align="center" width="33.3%" valign="top">
-      <a href="https://github.com/hurairamuzammal/Cricket-world">
-        <img src="assets/projects/cricketworld.png" width="76" height="76" alt="Cricket World Logo" style="border-radius: 18px;" /><br/>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/hurairamuzammal/Cricket-world" title="Live cricket analytics mobile app with automated ESPN ETL and 22.8 KB quantized on-device win-prediction models (80.7% accuracy, 0.887 ROC-AUC). | Stack: Flutter, Dart, Riverpod, Python, TensorFlow, Scikit-learn, TFLite, ONNX">
+        <img src="assets/projects/cricketworld.png" width="76" height="76" alt="Cricket World Logo" title="Live cricket analytics mobile app with automated ESPN ETL and 22.8 KB quantized on-device win-prediction models (80.7% accuracy, 0.887 ROC-AUC). | Stack: Flutter, Dart, Riverpod, Python, TensorFlow, Scikit-learn, TFLite, ONNX" style="border-radius: 18px;" /><br/>
         <b>Cricket World</b>
       </a><br/>
-      <sub>Live Match Analytics & 22.8 KB On-Device ML Win Predictor</sub>
+      <sub>Live Analytics & 22.8 KB On-Device ML</sub>
     </td>
-    <td align="center" width="33.3%" valign="top">
-      <a href="https://github.com/hurairamuzammal/linux-lumen">
-        <img src="assets/projects/lumen.png" width="76" height="76" alt="Lumen Logo" style="border-radius: 18px;" /><br/>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/hurairamuzammal/WiFi-Sync" title="Private cross-platform clipboard synchronizer & device hub bridging Android, Linux systemd daemon, and Windows with sub-second sync. | Stack: Flutter, Dart, Firebase, Python/Linux systemd, Cross-Platform Desktop">
+        <img src="assets/projects/wifisync.png" width="76" height="76" alt="WiFi Sync Logo" title="Private cross-platform clipboard synchronizer & device hub bridging Android, Linux systemd daemon, and Windows with sub-second sync. | Stack: Flutter, Dart, Firebase, Python/Linux systemd, Cross-Platform Desktop" style="border-radius: 18px;" /><br/>
+        <b>WiFi Sync</b>
+      </a><br/>
+      <sub>Sub-Second Cross-Device Clipboard Hub</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/hurairamuzammal/linux-lumen" title="Privacy-first native Linux digital wellbeing & battery telemetry suite featuring a ~32 KB C11 collector and GTK 4 / libadwaita dashboard. | Stack: C11, GTK 4, libadwaita, SQLite, GNOME / Linux systemd">
+        <img src="assets/projects/lumen.png" width="76" height="76" alt="Lumen Logo" title="Privacy-first native Linux digital wellbeing & battery telemetry suite featuring a ~32 KB C11 collector and GTK 4 / libadwaita dashboard. | Stack: C11, GTK 4, libadwaita, SQLite, GNOME / Linux systemd" style="border-radius: 18px;" /><br/>
         <b>Lumen</b>
       </a><br/>
-      <sub>Native Linux Digital Wellbeing & Battery Telemetry (C11 / GTK 4)</sub>
+      <sub>Native Linux Wellbeing & Battery Telemetry</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/hurairamuzammal/Flutter-Projects-Collection" title="Cross-platform health & activity tracker syncing steps, calories, and distance with native Android home-screen widgets and offline persistence. | Stack: Flutter, Dart, Health Connect, Firebase Auth, Cloud Firestore, Provider">
+        <img src="assets/projects/healthmax.png" width="76" height="76" alt="Health Max Logo" title="Cross-platform health & activity tracker syncing steps, calories, and distance with native Android home-screen widgets and offline persistence. | Stack: Flutter, Dart, Health Connect, Firebase Auth, Cloud Firestore, Provider" style="border-radius: 18px;" /><br/>
+        <b>Health Max</b>
+      </a><br/>
+      <sub>Flutter Activity Tracker & Home Widgets</sub>
     </td>
   </tr>
 </table>
@@ -94,24 +99,42 @@ My engineering work spans fine-tuning multimodal models (**LocalCUA** — Qwen3-
 
 # 🛠️ Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+### 🤖 AI, Machine Learning & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 📱 Mobile, Systems & Languages
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bubble](https://img.shields.io/badge/Bubble-0D0D0D?style=for-the-badge&logo=bubble&logoColor=white)
+
+### ☁️ Databases, Cloud & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Bubble](https://img.shields.io/badge/Bubble-%23000000.svg?style=for-the-badge&logo=bubble&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -133,13 +156,6 @@ My engineering work spans fine-tuning multimodal models (**LocalCUA** — Qwen3-
 │   │   └── Supabase Auth/RLS, Stripe Billing & Make.com Workflows
 │   └── Portfolio (Interactive Space-Themed Engineering Showcase)
 │
-├── 📱 Flutter & Cross-Platform Apps
-│   ├── Notlyfe-Student-Oragnizer (E2EE Offline-First Workspace — Android, Linux & Windows)
-│   ├── Health Max (Flutter Activity, Steps, Calories & Insights App with Home Widgets)
-│   ├── WiFi-Sync (Sub-Second Multi-Device Clipboard & Device Hub)
-│   ├── Cricket-world (Live Match Analytics & 22.8 KB On-Device TFLite/ONNX Predictor)
-│   └── Flutter-Projects-Collection
-│
 ├── 🤖 AI / ML & NLP Engineering
 │   ├── localcua (Qwen3-VL-8B Fine-Tuned Offline Computer Use Agent — 76.97% ScreenSpot)
 │   ├── NLP-RAG-medical-LLM (Clinical Dual-FAISS RAG API with Refusal Gate)
@@ -150,6 +166,13 @@ My engineering work spans fine-tuning multimodal models (**LocalCUA** — Qwen3-
 │       ├── NLP-Transformer_using_Pytorch
 │       ├── NLP_Finetuning_Bert_GPT2_T5
 │       └── NLP-LSTM-BiLSTM-Urdu-to-RomanUrdu
+│
+├── 📱 Flutter & Cross-Platform Apps
+│   ├── Notlyfe-Student-Oragnizer (E2EE Offline-First Workspace — Android, Linux & Windows)
+│   ├── Cricket-world (Live Match Analytics & 22.8 KB On-Device TFLite/ONNX Predictor)
+│   ├── WiFi-Sync (Sub-Second Multi-Device Clipboard & Device Hub)
+│   ├── Health Max (Flutter Activity, Steps, Calories & Insights App with Home Widgets)
+│   └── Flutter-Projects-Collection
 │
 ├── 💻 Native Linux & Systems
 │   ├── linux-lumen (Native Linux Digital Wellbeing & Battery Telemetry in C11 / GTK 4)
@@ -171,9 +194,9 @@ My engineering work spans fine-tuning multimodal models (**LocalCUA** — Qwen3-
 
 | Domain | Key Repositories | Focus Area |
 | :--- | :--- | :--- |
-| **☁️ SaaS / Cloud** | [Field-Quote](https://github.com/hurairamuzammal/Field-Quote), [Portfolio](https://github.com/hurairamuzammal/Portfolio) | AI-Driven Field Service Quoting SaaS (Next.js, Bubble.io, Supabase, Stripe, Cloudflare) |
-| **📱 Mobile & Cross-Platform** | [Notlyfe-Student-Oragnizer](https://github.com/hurairamuzammal/Notlyfe-Student-Oragnizer), **Health Max**, [WiFi-Sync](https://github.com/hurairamuzammal/WiFi-Sync), [Cricket-world](https://github.com/hurairamuzammal/Cricket-world) | E2EE Offline-First Flutter Apps, Health Tracking, Sub-Second Sync, On-Device ML |
+| **☁️ SaaS / Cloud** | [Field-Quote](https://github.com/hurairamuzammal/Field-Quote), [Portfolio](https://github.com/hurairamuzammal/Portfolio) | AI-Driven Field Service Quoting SaaS (Bubble.io, Supabase, PostgreSQL, Stripe, Cloudflare) |
 | **🤖 AI / ML & Agents** | [localcua](https://github.com/hurairamuzammal/localcua), [NLP-RAG-medical-LLM](https://github.com/hurairamuzammal/NLP-RAG-medical-LLM), [AI_ML-Projects_Collection](https://github.com/hurairamuzammal/AI_ML-Projects_Collection) | Vision-Language Fine-Tuning (LoRA/GRPO), Clinical FAISS RAG, PyTorch Transformers |
+| **📱 Mobile & Cross-Platform** | [Notlyfe-Student-Oragnizer](https://github.com/hurairamuzammal/Notlyfe-Student-Oragnizer), [Cricket-world](https://github.com/hurairamuzammal/Cricket-world), [WiFi-Sync](https://github.com/hurairamuzammal/WiFi-Sync), **Health Max** | E2EE Offline-First Flutter Apps, On-Device ML, Sub-Second Sync, Health Tracking |
 | **💻 Native Systems** | [linux-lumen](https://github.com/hurairamuzammal/linux-lumen) | Lightweight C11 Telemetry Collector & GTK 4 / libadwaita Desktop Dashboard |
 | **🧪 QA & Testing** | [ST-LocalCUA-mutation-testing](https://github.com/hurairamuzammal/ST-LocalCUA-mutation-testing), [Text-Editor-ST](https://github.com/hurairamuzammal/Text-Editor-ST) | Mutation Testing, Automated QA Suites, RLS Security Audits |
 | **🖥️ Android & .NET** | [Java-Android-Development-Tasks](https://github.com/hurairamuzammal/Java-Android-Development-Tasks), [Flex-Managment-System](https://github.com/hurairamuzammal/Flex-Managment-System) | Native Android Fundamentals & .NET 8.0 WinForms Systems |
